@@ -35,7 +35,7 @@ More info about the dataset can be found here :
 ## 🕵️ Key Insights
 
 - 🧳 **Total Trips**
-  - "VeriFone Inc" is the provider with the most number of trips with over 88k trips and "Creative Mobile Technologies" with only 11k trips.
+  - "VeriFone Inc" is the provider with the most number of trips with over 88k trips and "Creative Mobile Technologies" with only 11k trips
  
 - 💳 **Top Payment Types**
   - **N°1:** Credit Card with 66%
