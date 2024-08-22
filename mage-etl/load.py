@@ -22,7 +22,7 @@ def export_data_to_big_query(data, **kwargs) -> None:
 
     # Exporting each table to the nyctaxi_dataset
     for key, value in data.items():
-        table_id = 'nyctaxi-etl.nyctaxi_dataset.{}'.format(key)
+        table_id = 'fifth-compiler-433213-d1.uber_data_engineering.{}'.format(key)
         BigQuery.with_config(ConfigFileLoader(config_path, config_profile)).export(
             DataFrame(value),
             table_id,
