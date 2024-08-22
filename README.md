@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://lookerstudio.google.com/u/0/reporting/b8f8cf96-51a8-4987-9690-b26a063bf3e6/page/uk1OD">
-    <img src="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531" alt="Banner" width="720">
+  <a href="https://lookerstudio.google.com/reporting/e4f5b7b6-98b1-45ca-aa93-d95a08fa09ab">
+    <img src="https://github.com/user-attachments/assets/d1905548-aee0-435a-b984-21aee102189f" alt="Banner" width="720">
   </a>
   
   <div id="user-content-toc">
@@ -10,11 +10,9 @@
   </div>
   
   <p>Data Engineering Project Using GCP & MageAI </p>
-    <a href="https://bit.ly/nyctaxi-dashboard" target="_blank">Dashboard</a>
+    <a href="https://lookerstudio.google.com/reporting/e4f5b7b6-98b1-45ca-aa93-d95a08fa09ab" target="_blank">Dashboard</a>
     🌀
     <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">Data</a>
-    ☄️
-    <a href="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/issues" target="_blank">Request Feature</a>
 </div>
 
 ## 🎯 Goal 
@@ -32,8 +30,7 @@ More info about the dataset can be found here :
 
 ## 📊 Dashboard
 
-![image](https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531)
-![image](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/82fbafbe-102c-4d45-a733-b14d4b3766f5)
+
 
 ## 🕵️ Key Insights
 
@@ -47,10 +44,15 @@ More info about the dataset can be found here :
 - 👨‍👩‍👧‍👧 **Number of passengers by trip**
   - 65% of the trips have only 1 passenger.
   - 13% have 2 passengers.
+
   - 8% have 5 passengers.
 
 - 💵 **Common Rate Code**
   - The most common final rate code in effect at the end of the trip is the "Standard rate" with over 97%, followed by JFK with 2.2%, Negotiated fare etc. with less than 1%
+
+![SUMMARY](https://github.com/user-attachments/assets/a6902fff-6879-4ace-abf4-0f94e8a9704e)
+![CHARTS](https://github.com/user-attachments/assets/227c57c8-0db9-428e-ba84-1cba4db4362f)
+
 
 ## 🛠️ Technologies Used
 
@@ -75,7 +77,7 @@ More info about the dataset can be found here :
 
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fredrick-jaoko-190ba4263/) •
+[Website](https://fredjaoko.vercel.app/) •
+[Gmail](fredjaoko123@gmail.com)
 
